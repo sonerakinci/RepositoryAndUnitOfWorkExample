@@ -1,0 +1,9 @@
+C:\Users\soner\Documents\Visual Studio 2015\Projects\WFA.RepositoryAndUnitOfWorkExample\Msdn.Entities\bin\Debug\Msdn.Entities.dll.config
+C:\Users\soner\Documents\Visual Studio 2015\Projects\WFA.RepositoryAndUnitOfWorkExample\Msdn.Entities\bin\Debug\Msdn.Entities.dll
+C:\Users\soner\Documents\Visual Studio 2015\Projects\WFA.RepositoryAndUnitOfWorkExample\Msdn.Entities\bin\Debug\Msdn.Entities.pdb
+C:\Users\soner\Documents\Visual Studio 2015\Projects\WFA.RepositoryAndUnitOfWorkExample\Msdn.Entities\bin\Debug\EntityFramework.dll
+C:\Users\soner\Documents\Visual Studio 2015\Projects\WFA.RepositoryAndUnitOfWorkExample\Msdn.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\soner\Documents\Visual Studio 2015\Projects\WFA.RepositoryAndUnitOfWorkExample\Msdn.Entities\bin\Debug\EntityFramework.xml
+C:\Users\soner\Documents\Visual Studio 2015\Projects\WFA.RepositoryAndUnitOfWorkExample\Msdn.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\soner\Documents\Visual Studio 2015\Projects\WFA.RepositoryAndUnitOfWorkExample\Msdn.Entities\obj\Debug\Msdn.Entities.dll
+C:\Users\soner\Documents\Visual Studio 2015\Projects\WFA.RepositoryAndUnitOfWorkExample\Msdn.Entities\obj\Debug\Msdn.Entities.pdb
